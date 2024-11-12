@@ -1,19 +1,19 @@
 def test_success():
     # TODO: divide two numbers
     # TODO: assert correct result using pytext.approx
-    pass
+    assert False
 
 
 def test_invalid():
     # TODO: call divide with invalid input (letters, symbols, ...)
     # TODO: use xfails to mark the test as expected to fail
-    pass
+    assert False
 
 
 def test_zero_division():
     # TODO: call divide with zero as second parameter
     # TODO: use pytest.raises to check for ZeroDivisionError
-    pass
+    assert False
 
 
 def test_mark_skip():
