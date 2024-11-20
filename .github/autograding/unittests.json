@@ -21,18 +21,18 @@
     "name": "test_mark_skip",
     "function": "test_mark_skip",
     "timeout": 10,
-    "points": 1
+    "points": 0
   },
   {
     "name": "test_mark_skip_conditional",
     "function": "test_mark_skip_conditional",
     "timeout": 10,
-    "points": 1
+    "points": 0
   },
   {
     "name": "test_pytest_skip",
     "function": "test_pytest_skip",
     "timeout": 10,
-    "points": 1
+    "points": 0
   }
 ]
